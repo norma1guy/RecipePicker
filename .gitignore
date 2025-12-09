@@ -1,0 +1,8 @@
+/datasets
+/recipes.csv
+/data
+/data.png
+/ingredient_embeddings.pkl 
+/nutrition_embeddings.pkl
+/.DS_Store
+/__pycache__
