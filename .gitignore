@@ -6,3 +6,5 @@
 /nutrition_embeddings.pkl
 /.DS_Store
 /__pycache__
+/ingredients.csv
+/tester.py
